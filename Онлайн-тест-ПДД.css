@@ -192,6 +192,7 @@
 }
 
 .u-section-2 .u-btn-31 {
+  font-size: 1rem;
   padding: 0;
 }
 
@@ -300,10 +301,6 @@
     margin-right: 814px;
     margin-bottom: 60px;
   }
-
-  .u-section-2 .u-btn-31 {
-    font-size: 1rem;
-  }
 }
 
 @media (max-width: 991px) {
@@ -369,11 +366,13 @@
   }
 
   .u-section-2 .u-text-3 {
-    margin-top: 78px;
-    margin-left: 214px;
+    margin-top: 7px;
+    margin-right: 214px;
+    margin-left: 0;
   }
 
   .u-section-2 .u-text-4 {
-    margin-right: 214px;
+    margin-right: 0;
+    margin-left: 214px;
   }
 }

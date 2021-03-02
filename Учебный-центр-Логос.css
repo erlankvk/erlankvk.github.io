@@ -202,17 +202,35 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 649px;
+  }
+
+  .u-section-2 .u-group-1 {
+    min-height: 699px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-right: 0;
+  }
+
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
+    width: auto;
+    margin-right: -11px;
+    margin-left: -21px;
   }
 
   .u-section-2 .u-text-2 {
-    width: 320px;
     font-size: 1.25rem;
+    width: auto;
+    margin-left: -42px;
+    margin-right: -42px;
   }
 
   .u-section-2 .u-text-3 {
-    width: 320px;
+    width: auto;
+    margin-right: 10px;
   }
 }.u-section-3 {
   background-image: none;
