@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="C0D49D27-8E35-4164-979E-313286CE5DD2" version="0">
+	<info>
+		<title>Автошкола ЛОГОС</title>
+		<description/>
+	</info>
+	<files index="id30" thumbnail="id26" totalSize="2306324">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-012122589746ea5b73bb52bdb03a47911855bfa6.jpg</file>
+		<file id="id10">data/images/img-1288f572d326532f42797d87e8d635212002c5a7.jpg</file>
+		<file id="id11">data/images/img-29c9e44f93e7baab064def3f092192b7fbd079ff.jpg</file>
+		<file id="id12">data/images/img-2d916ea64df8c1212b1a765489512b4b76eac1b3.jpg</file>
+		<file id="id13">data/images/img-4675630fc88ace0f15bb0592b22013c85d0c7800.jpg</file>
+		<file id="id14">data/images/img-499b736e87a0319fa9b10cdca26b2dac834fc69a.jpg</file>
+		<file id="id15">data/images/img-5f49b25059b82e08b755730fe124c5a947655ec6.jpg</file>
+		<file id="id16">data/images/img-5fb709f8b4cf2af7df5e483425408bd0922337d9.jpg</file>
+		<file id="id17">data/images/img-6c3ae6b4f626afd58462a9270f45238bc1b6a0e7.jpg</file>
+		<file id="id18">data/images/img-771b119416fc4ef07d7c61a42fa4da33642f5f5b.jpg</file>
+		<file id="id19">data/images/img-7e824798825baa92e47879ff23791a76aaa1a24f.jpg</file>
+		<file id="id20">data/images/img-8a87c334b77bcea30f978bca53e0a09debeddc65.jpg</file>
+		<file id="id21">data/images/img-aeb53c8631962fb237af4d3b5fb64ea18a438b70.jpg</file>
+		<file id="id22">data/images/img-ba078a83971ecd5b84f3c0b3a82297162dd9c88c.jpg</file>
+		<file id="id23">data/images/img-c498a444694dfddc6af7735855d48fc5047ca8d1.jpg</file>
+		<file id="id24">data/ismplayer/app_store2x.png</file>
+		<file id="id25">data/ismplayer/play.svg</file>
+		<file id="id26">data/ismplayer/preview.png</file>
+		<file id="id27">data/ismplayer/style.css</file>
+		<file id="id28">data/ismplayer/style_mini.css</file>
+		<file id="id29">data/player.js</file>
+		<file id="id30">index.html</file>
+		<file id="id31">ismplayer.html</file>
+		<file id="id32">preview.png</file>
+	</files>
+</presentation>
+
