@@ -1,0 +1,661 @@
+<style>
+	
+@font-face {
+  font-family: Rubik;
+  font-display: swap;
+  src: url(wp-content/themes/iq/dist/fonts/Rubik-Regular.woff2);
+  font-weight: 400; }
+
+@font-face {
+  font-family: Rubik;
+  font-display: swap;
+  src: url(wp-content/themes/iq/dist/fonts/Rubik-Medium.woff2);
+  font-weight: 600; 
+
+* {
+  outline: none;
+  box-sizing: border-box; }
+
+html {
+  font-family: Rubik;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2E2E2E; }
+
+body {
+  margin: 0; }
+
+img {
+  display: block;
+  opacity: 0; }
+
+img:not(.initial) {
+  transition: opacity 1s; }
+
+img.initial,
+img.loaded,
+img.error {
+  opacity: 1; }
+
+img:not([src]):not([srcset]) {
+  visibility: hidden; }
+
+button {
+  background-color: unset;
+  padding: unset;
+  border: none;
+  outline: none;
+  font-family: Rubik;
+  color: #2E2E2E; }
+
+input {
+  border: none;
+  padding: unset;
+  outline: none;
+  font-family: Rubik;
+  color: #2E2E2E; }
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+  text-overflow: ''; }
+
+textarea {
+  font-family: Rubik; }
+
+a {
+  display: block;
+  text-decoration: none;
+  color: #2E2E2E; }
+
+.container {
+  min-width: 1024px;
+  max-width: 1280px;
+  margin: auto;
+  padding: 0 40px;
+  overflow: hidden; }
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity .6s ease-in-out; }
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+  transition: opacity .6s ease-in-out; }
+
+[v-cloak] {
+  display: none; }
+
+.header {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  align-items: center; }
+
+.header__imgbox {
+  width: 100px;
+  height: 100px;
+  margin-right: 30px; }
+
+.header__img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain; }
+
+.header__block {
+  position: relative;
+  white-space: nowrap;
+  cursor: pointer;
+  z-index: 2; }
+
+.header__block:hover .header__tab {
+  visibility: visible;
+  opacity: 1;
+  transition: .4s ease; }
+
+.header__block:hover .header__item {
+  opacity: 1;
+  transition: .4s ease; }
+
+.header__item {
+  margin-right: 40px;
+  opacity: .6;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: .4s ease; }
+
+.header__item:hover {
+  opacity: 1;
+  transition: .4s ease; }
+
+.header__tel {
+  margin: 0 40px 0 auto;
+  font-weight: 600;
+  transition: .4s ease; }
+
+.header__tel:hover {
+  color: #3C58AB;
+  transition: .4s ease; }
+
+.header__button1 {
+  width: 146px !important;
+  margin-right: 16px; }
+
+.header__button2 {
+  width: 173px !important; }
+
+.header__tab {
+  position: absolute;
+  left: 0;
+  top: 40px;
+  z-index: 2;
+  width: 408px;
+  background: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  border-radius: 10px;
+  padding: 10px 0 12px 0;
+  visibility: hidden;
+  opacity: 0;
+  transition: .4s ease; }
+
+.header__language {
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  transition: .4s ease; }
+
+.header__language:hover {
+  background: #F5F5F5;
+  transition: .4s ease; }
+
+.header__flag {
+  width: 24px;
+  height: 24px;
+  margin-right: 16px; }
+
+.button {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  background: white;
+  cursor: pointer;
+  transition: .4s ease; }
+
+.button > * {
+  pointer-events: none; }
+
+.button--big {
+  height: 80px;
+  border-radius: 40px 40px 40px 4px;
+  font-size: 20px;
+  line-height: 20px; }
+
+.button--mid {
+  height: 64px;
+  border-radius: 32px 32px 32px 4px;
+  font-size: 20px;
+  line-height: 20px; }
+
+.button--small {
+  height: 40px;
+  border-radius: 20px 20px 20px 2px;
+  font-size: 14px;
+  line-height: 21px; }
+
+.button--grid {
+  height: 48px;
+  border-radius: 24px 24px 24px 2px;
+  font-size: 16px;
+  line-height: 24px; }
+
+.button--border {
+  border: 1px solid #CCCCCC;
+  transition: .4s ease; }
+
+.button--border:hover {
+  border-color: transparent;
+  background: #2E2E2E;
+  color: white;
+  transition: .4s ease; }
+
+.button--green {
+  background: #609B25;
+  color: white; }
+
+.button--green:hover {
+  background: #213E08;
+  transition: .4s ease; }
+
+.button--red {
+  background: #FF8360;
+  color: white; }
+
+.button--red:hover {
+  background: #8E432E;
+  transition: .4s ease; }
+
+.button--orange {
+  background: #FFD15A;
+  color: white; }
+
+.button--orange:hover {
+  background: #95731D;
+  transition: .4s ease; }
+
+.button--blue {
+  background: #3C58AB;
+  color: white; }
+
+.button--blue:hover {
+  background: #233364;
+  transition: .4s ease; }
+
+.button--lime {
+  background: #B5D51B;
+  color: white; }
+
+.button--lime:hover {
+  background: #96B30D;
+  transition: .4s ease; }
+
+.button:disabled {
+  background: #CCCCCC;
+  pointer-events: none;
+  transition: .4s ease; }
+
+.button-round {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  cursor: pointer;
+  transition: .4s ease; }
+
+.button-round:hover {
+  background: #2E2E2E;
+  transition: .4s ease; }
+
+.button-round:hover svg {
+  fill: white;
+  transition: .4s ease; }
+
+.button-round--border {
+  border: 1px solid #D9D9D9;
+  transition: .4s ease; }
+
+.button-round--border:hover {
+  border-color: transparent;
+  transition: .4s ease; }
+
+.button-round svg {
+  transition: .4s ease; }
+
+.button-round--disabled {
+  pointer-events: none;
+  opacity: .5;
+  transition: .4s ease; }
+
+.post-thumb {
+  position: relative;
+  width: calc(100%/4 - 40px);
+  margin: 0 40px 40px 0;
+  cursor: pointer; }
+
+.post-thumb--3 {
+  width: calc(100%/3 - 40px) !important; }
+
+.post-thumb:hover .post-thumb__imgbox {
+  border-radius: 135px 135px 135px 10px;
+  transition: .4s ease; }
+
+.post-thumb:hover .post-thumb__title {
+  color: #3C58AB;
+  transition: .4s ease; }
+
+.post-thumb__imgbox {
+  width: 100%;
+  height: 270px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 40px;
+  transition: .4s ease;
+  transform: translate3d(0, 0, 0); }
+
+.post-thumb__img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover; }
+
+.post-thumb__date {
+  font-size: 14px;
+  line-height: 14px;
+  color: #8C8C8C;
+  margin-bottom: 16px; }
+
+.post-thumb__title {
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 600;
+  max-height: 102px;
+  overflow: hidden;
+  transition: .4s ease; }
+
+.post-thumb__link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+.level {
+  position: relative;
+  margin-bottom: 160px; }
+
+.level__title {
+  width: 710px;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  margin-bottom: 24px; }
+
+.level__stress {
+  color: #B5D51B; }
+
+.level__subtitle {
+  font-size: 18px;
+  line-height: 28px;
+  margin-bottom: 40px; }
+
+.level__grid {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: -24px; }
+
+.level__button1 {
+  width: 272px;
+  margin: 0 24px 24px 0; }
+
+.level__button2 {
+  width: 355px;
+  margin: 0 24px 24px 0; }
+
+.level__button3 {
+  width: 354px;
+  margin: 0 0 24px 0; }
+
+.level__img {
+  position: absolute;
+  top: -150px;
+  right: -60px;
+  z-index: -1;
+  width: 327px;
+  height: 327px; }
+
+.action {
+  margin-bottom: 160px; }
+
+.action__title {
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  margin-bottom: 64px; }
+
+.action__form {
+  display: flex;
+  margin: 0 -60px 64px 0; }
+
+.action__steps {
+  display: flex;
+  margin-right: -60px; }
+
+.action__item {
+  flex: 1;
+  height: 80px;
+  margin-right: 24px; }
+
+.action__item:last-of-type {
+  margin-right: 0; }
+
+.action__button {
+  width: 320px;
+  margin: 0 60px 0 40px; }
+
+.action__step {
+  font-size: 28px;
+  line-height: 38px;
+  font-weight: 600;
+  margin-bottom: 16px; }
+
+.action__col {
+  width: calc(100%/3 - 60px);
+  margin-right: 60px; }
+
+.action__text {
+  font-size: 18px;
+  line-height: 28px; }
+
+/*------------------------------------*\
+  INTRO
+\*------------------------------------*/
+
+.intro {
+  position: relative;
+  margin: 6px 0 124px 0; }
+
+.intro__arrows {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  left: -32px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  z-index: 1;
+  width: calc(100% + 64px);
+  height: 64px; }
+
+.intro__pagination {
+  position: relative !important;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.intro__bullet {
+  width: 8px;
+  height: 8px;
+  margin-right: 40px;
+  border-radius: 50%;
+  background: rgba(46, 46, 46, 0.3);
+  transition: .4s ease; }
+
+.intro__bullet-active {
+  background: #609B25;
+  transition: .4s ease; }
+
+.intro__bullet:last-of-type {
+  margin-right: 0; }
+
+/*------------------------------------*\
+  SWIPER-INTRO
+\*------------------------------------*/
+
+.swiper-intro {
+  position: relative;
+  height: 540px;
+  border-radius: 20px;
+  margin-bottom: 20px; }
+
+/*------------------------------------*\
+  SWIPER-NEWS
+\*------------------------------------*/
+
+.swiper-news {
+  height: 482px;
+  flex: 1; }
+
+/*------------------------------------*\
+  ANONS
+\*------------------------------------*/
+
+.anons {
+  height: 540px !important;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.anons__title {
+  width: 480px;
+  font-size: 48px;
+  line-height: 58px;
+  font-weight: 600;
+  z-index: 1;
+  margin-bottom: 24px; }
+
+.anons__text {
+  width: 480px;
+  font-size: 18px;
+  line-height: 28px;
+  z-index: 1;
+  margin-bottom: 40px; }
+
+.anons__text p {
+  margin: 0; }
+
+.anons__img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  top: 0;
+  left: 140px; }
+
+.anons__footer {
+  display: flex;
+  align-items: center;
+  z-index: 1; }
+
+.anons__button1 {
+  width: 207px;
+  margin-right: 24px; }
+
+.anons__button2 {
+  width: 204px; }
+  
+.header__img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+  object-fit: contain;
+  }
+</style>
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+    	
+		<title>Balastan school</title>
+		
+		
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<section class="container">
+          <header class="header">
+        <a class="header__imgbox" href="index.htm">
+          <img class="header__img lazy" data-src="Balastan.png">
+        </a>
+        <div class="header__block">
+          <a class="header__item" href="kursy-inostrannyh-jazykov-v-verhnej-pyshme/index.htm">Курсы</a>
+
+                    </div>
+        </div>
+
+        <a class="header__tel" href="tel: + (996) 0707-966-010">+ (996) 0707-966-010</a>
+        <button class="button button--small button--green header__button2" data-id="contact" data-type="course">Записаться на курс</button>
+      </header>
+    
+
+<section class="intro">
+  <div class="swiper-intro swiper-container">
+    <div class="swiper-wrapper">
+              <div class="anons swiper-slide" style="background: #efefef">
+                    <div class="anons__title">Учебный центр <br>Balastan school</div>
+                    <div class="anons__text">Подготовка к школе</div>
+          <div class="anons__footer">
+            <!-- <a class="button button--mid button--border news__button" href="/novosti">Все новости</a> -->
+            <!-- <button class="button button--mid button--green anons__button1" data-id="application">Запись 2020</button> -->
+            <button class="button button--mid button--green anons__button1" data-id="selt">Записаться</button>
+            <a class="button button--mid button--green anons__button1" href="kursy-anglijskogo-jazyka/jekzamen-selt/index.htm">Подробнее</a>
+            <!-- <button class="button button--mid button--lime anons__button2" data-id="test" data-type="common">Пройти тест</button> -->
+          </div>
+          <img class="anons__img lazy" data-src="https://iq-ec.ru/wp-content/uploads/2020/09/girl.png">
+        </div>
+          </div>
+  </div>
+  
+  </section>
+
+  <h1>Курс охватывает следующие направления</h1>
+  <p align="center">Индивидуальный подход к каждому ребенку с 3 до 18 лет</p>
+</header>
+<main>
+  <ul class="cards">
+    <li class="card -red">
+      <div class="card--image"><img src="https://rost.kg/wp-content/uploads/2019/10/1.png"></div><h2>Математика с элементами логики</h2>
+        <p>Научим выполнять базовые арифметические действия</p>
+    </li>
+    <li class="card -green">
+      <div class="card--image"><img src="https://rost.kg/wp-content/uploads/2019/10/2.png"></div>
+      <h2>Чтение</h2>
+      <p>Научим вашего ребенка читать</p>
+    </li>
+    <li class="card -blue">
+      <div class="card--image"><img src="https://rost.kg/wp-content/uploads/2019/10/3.png"></div>
+      <h2>Рисование</h2>
+      <p>Постараемся развить любовь к творчеству</p>
+    </li>
+	 </ul>
+	 <ul class="cards">
+    <li class="card -red">
+      <div class="card--image"><img src="https://rost.kg/wp-content/uploads/2019/10/4.png"> </div><h2>Письмо</h2>
+        <p>Научим правильно и красиво писать</p>
+    </li>
+    <li class="card -green">
+      <div class="card--image"><img src="https://rost.kg/wp-content/uploads/2019/10/5.png"></div>
+      <h2>Развитие речи</h2>
+      <p>Поможем ребенку свобонее выражать свои мысли</p>
+    </li>
+    <li class="card -blue">
+      <div class="card--image"><img src="https://rost.kg/wp-content/uploads/2019/10/6.png"></div>
+      <h2>Развитие логики</h2>
+      <p>Будем регулярно давать детям логические задачки</p>
+    </li>
+	 </ul>
+	 
+	 
+	 
+	 
+	
+	  
+</main>
+<!-- partial -->
+  
+</body>
+</html>
