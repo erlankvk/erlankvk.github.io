@@ -1,0 +1,380 @@
+Uri: http://www.tondo.design/
+File Name: C:\Downloaded Web Sites\www.tondo.design\index.htm
+Content Type: text/html
+
+Uri: http://www.tondo.design/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\favicon-32x32.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\favicon-16x16.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/manifest.json
+File Name: C:\Downloaded Web Sites\www.tondo.design\manifest.json
+Content Type: application/json
+
+Uri: http://www.tondo.design/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.tondo.design\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: http://www.tondo.design/_nuxt/manifest.8054085a844bba6e9956.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\manifest.8054085a844bba6e9956.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/vendor.d97425f7a6853057eaf9.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\vendor.d97425f7a6853057eaf9.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/app.db2466ccb6ad65911ee4.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\app.db2466ccb6ad65911ee4.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/layouts/default.9f4df78347b4313b6ad4.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\layouts\default.9f4df78347b4313b6ad4.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/index.75dd7c562cc88c0103a2.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\index.75dd7c562cc88c0103a2.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/index/index.e4bf2df083c3684631b2.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\index\index.e4bf2df083c3684631b2.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/layouts/default/default.15cf9c80581c3c99b69a.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\layouts\default\default.15cf9c80581c3c99b69a.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/contacts.beaed6648fa0df44f8b8.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\contacts.beaed6648fa0df44f8b8.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/index/cases/_id.cf0cc49fa6ac6ca6b9bd.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\index\cases\_id.cf0cc49fa6ac6ca6b9bd.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/about/index.ef14896e76132fa26bf6.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\about\index.ef14896e76132fa26bf6.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/about/partners.12b7d78bfb8fab8c5dc2.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\about\partners.12b7d78bfb8fab8c5dc2.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/approach.9f95a0a4e5928f8e2f0a.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\approach.9f95a0a4e5928f8e2f0a.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/showreel/index.5ca533ab26dfaeb1292c.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\showreel\index.5ca533ab26dfaeb1292c.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/contacts/feedback.3f598f2fa7dd6b2eb039.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\contacts\feedback.3f598f2fa7dd6b2eb039.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/about/awards.261d5819d05409d81e4d.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\about\awards.261d5819d05409d81e4d.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/about.ac5e9def15dd10a0a943.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\about.ac5e9def15dd10a0a943.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/contacts/index.ba37f7f2e6dd6858893f.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\contacts\index.ba37f7f2e6dd6858893f.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/index/cases/index.bd34dfd0afdfd0440137.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\index\cases\index.bd34dfd0afdfd0440137.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/pages/about/friends.3335e3cb4ef8ceb42954.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\pages\about\friends.3335e3cb4ef8ceb42954.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/app.770cb4d883b7c6161f707f94c3ed2aee.css
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\app.770cb4d883b7c6161f707f94c3ed2aee.css
+Content Type: text/css
+
+Uri: http://www.tondo.design/about/partners
+File Name: C:\Downloaded Web Sites\www.tondo.design\about\partners.html
+Content Type: text/html
+
+Uri: http://www.tondo.design/approach
+File Name: C:\Downloaded Web Sites\www.tondo.design\approach.html
+Content Type: text/html
+
+Uri: http://www.tondo.design/contacts/
+File Name: C:\Downloaded Web Sites\www.tondo.design\contacts\index.htm
+Content Type: text/html
+
+Uri: http://www.tondo.design/uploads/case/cover_main/9/Tondo_Kvadrat_pizza_0.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\case\cover_main\9\Tondo_Kvadrat_pizza_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/case/cover_main_mobile/9/Tondo_Kvadrat_pizza_0.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\case\cover_main_mobile\9\Tondo_Kvadrat_pizza_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/108/Tondo_Kvadrat_pizza_1.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\108\Tondo_Kvadrat_pizza_1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/109/Tondo_Kvadrat_pizza_2.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\109\Tondo_Kvadrat_pizza_2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/110/Tondo_Kvadrat_pizza_3.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\110\Tondo_Kvadrat_pizza_3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/112/Tondo_Kvadrat_pizza_5.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\112\Tondo_Kvadrat_pizza_5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/113/Tondo_Kvadrat_pizza_6.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\113\Tondo_Kvadrat_pizza_6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/114/Tondo_Kvadrat_pizza_7.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\114\Tondo_Kvadrat_pizza_7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/115/Tondo_Kvadrat_pizza_8.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\115\Tondo_Kvadrat_pizza_8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/117/Tondo_Kvadrat_pizza_10.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\117\Tondo_Kvadrat_pizza_10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/118/Tondo_Kvadrat_pizza_11.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\118\Tondo_Kvadrat_pizza_11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/119/Tondo_Kvadrat_pizza_12.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\119\Tondo_Kvadrat_pizza_12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/120/Tondo_Kvadrat_pizza_13.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\120\Tondo_Kvadrat_pizza_13.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/121/Tondo_Kvadrat_pizza_14.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\121\Tondo_Kvadrat_pizza_14.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/image/file/122/99b4fb22530763.5631a5b04b225_1.gif
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\image\file\122\99b4fb22530763.5631a5b04b225_1.gif
+Content Type: image/gif
+
+Uri: http://www.tondo.design/uploads/case/cover_preview/6/Tondo_Vitagen_0.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\case\cover_preview\6\Tondo_Vitagen_0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/uploads/case/cover_preview/13/0_1_2_3.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\case\cover_preview\13\0_1_2_3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/_nuxt/fonts/Fondo.afa35b7.woff2
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\fonts\Fondo.afa35b7.woff2
+Content Type: application/font-woff2
+
+Uri: http://www.tondo.design/_nuxt/fonts/Fondo.ebe372f.woff
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\fonts\Fondo.ebe372f.woff
+Content Type: application/font-woff
+
+Uri: http://www.tondo.design/_nuxt/fonts/GoodProLight.28d8036.woff2
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\fonts\GoodProLight.28d8036.woff2
+Content Type: application/font-woff2
+
+Uri: http://www.tondo.design/_nuxt/fonts/GoodProLight.9af1713.woff
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\fonts\GoodProLight.9af1713.woff
+Content Type: application/font-woff
+
+Uri: http://www.tondo.design/_nuxt/fonts/GoodPro.ad9c2f9.woff2
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\fonts\GoodPro.ad9c2f9.woff2
+Content Type: application/font-woff2
+
+Uri: http://www.tondo.design/_nuxt/fonts/GoodPro.3045583.woff
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\fonts\GoodPro.3045583.woff
+Content Type: application/font-woff
+
+Uri: http://www.tondo.design/_nuxt/fonts/GoodProMedium.b7ae4b8.woff2
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\fonts\GoodProMedium.b7ae4b8.woff2
+Content Type: application/font-woff2
+
+Uri: http://www.tondo.design/_nuxt/fonts/GoodProMedium.d535260.woff
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\fonts\GoodProMedium.d535260.woff
+Content Type: application/font-woff
+
+Uri: http://www.tondo.design/about/
+File Name: C:\Downloaded Web Sites\www.tondo.design\about\index.htm
+Content Type: text/html
+
+Uri: http://www.tondo.design/about/awards
+File Name: C:\Downloaded Web Sites\www.tondo.design\about\awards.html
+Content Type: text/html
+
+Uri: http://www.tondo.design/about/friends
+File Name: C:\Downloaded Web Sites\www.tondo.design\about\friends.html
+Content Type: text/html
+
+Uri: http://www.tondo.design/uploads/setting/presentation/1/Tondo_presentation_Wo_OA.pdf
+File Name: C:\Downloaded Web Sites\www.tondo.design\uploads\setting\presentation\1\Tondo_presentation_Wo_OA.pdf
+Content Type: application/pdf
+
+Uri: http://www.tondo.design/showreel
+File Name: C:\Downloaded Web Sites\www.tondo.design\showreel.html
+Content Type: text/html
+
+Uri: http://www.tondo.design/_nuxt/img/alimkin.5c56c29.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\img\alimkin.5c56c29.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/_nuxt/img/eva.2f12aa0.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\img\eva.2f12aa0.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/_nuxt/img/bolimond.96aec40.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\img\bolimond.96aec40.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/_nuxt/img/petrov.72c372f.jpg
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\img\petrov.72c372f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.tondo.design/approach?text=true
+File Name: C:\Downloaded Web Sites\www.tondo.design\approach-1.html
+Content Type: text/html
+
+Uri: http://www.tondo.design/contacts/feedback
+File Name: C:\Downloaded Web Sites\www.tondo.design\contacts\feedback.html
+Content Type: text/html
+
+Uri: http://www.tondo.design/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/maximalimkin/?utm_source=ig_profile_share&igshid=1wuf6xhl9z3rm
+File Name: C:\Downloaded Web Sites\www.tondo.design\maximalimkin\index.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/tondograph/
+File Name: C:\Downloaded Web Sites\www.tondo.design\tondograph\index.htm
+Content Type: text/html
+
+Uri: https://tr.pinterest.com/tondograph/
+File Name: C:\Downloaded Web Sites\www.tondo.design\tondograph\index-1.htm
+Content Type: text/html
+
+Uri: http://www.tondo.design/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: http://www.tondo.design/_nuxt/img/stamp.bf96a51.svg
+File Name: C:\Downloaded Web Sites\www.tondo.design\_nuxt\img\stamp.bf96a51.svg
+Content Type: image/svg+xml
+
+Uri: http://www.tondo.design/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Downloaded Web Sites\www.tondo.design\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Downloaded Web Sites\www.tondo.design\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://www.petrick.ru/blog
+File Name: C:\Downloaded Web Sites\www.tondo.design\blog.html
+Content Type: text/html
+
+Uri: https://bonnieandslide.com/home
+File Name: C:\Downloaded Web Sites\www.tondo.design\home.html
+Content Type: text/html
+
+Uri: http://www.tondo.design/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: http://www.tondo.design/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\www.tondo.design\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Downloaded Web Sites\www.tondo.design\5xx-error-landing\index.htm
+Content Type: text/html
+
